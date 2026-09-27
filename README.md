@@ -17,7 +17,7 @@ The project uses document data extraction, AI-assisted analysis, and business ru
 
 ## View the case study
 
-[Open the Project 7 presentation](EXACT-PDF-FILENAME.pdf)
+[Open the Project 7 presentation](Lesley_Colon_Intelligent_Construction_Invoice_Automation_Case_Study.pdf.pdf)
 
 ## Project status
 
